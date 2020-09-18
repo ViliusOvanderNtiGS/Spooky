@@ -1,0 +1,86 @@
+* {
+  font-family: "Kumbh Sans", sans-serif;
+}
+
+header {
+  background-color: black;
+  padding: 32px;
+  text-align: center;
+  color: white;
+  margin: 0px;
+}
+
+nav li {
+  list-style: none;
+  margin: 32px;
+  display: inline-block;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  text-align: center;
+}
+
+h1,
+h2 {
+  margin: 32px;
+  font-family: "Fredoka One", cursive;
+  font-size: 40px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 30px;
+  padding: 0px;
+}
+
+footer {
+  background-color: black;
+  padding: 8px;
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-size: 20px;
+  width: 50%;
+  text-align: center;
+}
+
+img {
+  padding: 64px;
+  margin: 64px;
+}
+
+p.copy {
+  font-size: 12px;
+  text-align: center;
+  width: 100%;
+}
+
+.logo {
+  padding: 0px;
+  margin: 0px;
+}
+
+#tshirt {
+  background-color: rgb(216, 216, 216);
+  padding: 32px;
+
+  float: right;
+}
+
+#mask {
+  padding: 32px;
+}
+
+#hoodie {
+  padding: 16px;
+}
+
+#köp {
+  color: rgb(0, 207, 0);
+  width: 43%;
+}
