@@ -78,8 +78,8 @@ p {
 }
 
 img {
-  padding: 64px;
-  margin: 64px;
+  padding: 32px;
+  margin: 32px;
 }
 
 .logo {
@@ -92,6 +92,7 @@ img {
   justify-content: space-evenly;
   align-items: center;
 }
+flex-wrap: wrap;
 
 #tee {
   display: flex;
